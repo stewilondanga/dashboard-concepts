@@ -254,18 +254,19 @@ a {
   transition: all 1s ease-out;
 }
 
-/*@-webkit-keyframes movbackg {
-	0% {
-		background-size: 100% 200%
-	}
-	50% {
-		background-size: 100% 250%
-	}
-	100% {
-		background-size: 100% 200%
+@-webkit-keyframes movbackg {
+  0% {
+    background-size: 100% 200%
+  }
+  50% {
+    background-size: 100% 250%
+  }
+  100% {
+    background-size: 100% 200%
   }
 }
-@-moz-keyframes movbackg {
+
+/*@-moz-keyframes movbackg {
 	0% {
 		background-size: 100% 200%
 	}
