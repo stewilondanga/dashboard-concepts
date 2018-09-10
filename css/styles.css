@@ -194,11 +194,12 @@ a {
 
 /* ALL BLOCKS TITLES */
 
-/*.block-title{
-	font-size:30px;
-	display:table-cell;
-	vertical-align: middle;
+.block-title {
+  font-size: 30px;
+  display: table-cell;
+  vertical-align: middle;
 }
+
 /* 3 TOP BLOCKS */
 
 /*.top-blocks{
