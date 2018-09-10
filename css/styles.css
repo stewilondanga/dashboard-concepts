@@ -1,5 +1,6 @@
 /* - */
 
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,800');
 html, body {
   background: #390923;
   color: #EFEFEF;
@@ -25,7 +26,7 @@ html, body {
   height: 1.5em;
 }
 
-/*@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,800');
+/*
 
 *{padding:0;margin:0;}
 
