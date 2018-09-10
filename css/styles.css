@@ -109,14 +109,15 @@ a {
   width: 24px;
 }
 
-/*.navbar img{
-  border-radius:100%;
-  background:#480b2b;
-	max-height:24px;
-	max-width:24px;
-  padding:10px;
+.navbar img {
+  border-radius: 100%;
+  background: #480b2b;
+  max-height: 24px;
+  max-width: 24px;
+  padding: 10px;
 }
-.navbar img:hover{
+
+/*.navbar img:hover{
   background:#37c595;
 }
 /* LEFT/TOP PROFIL BLOCK*/
