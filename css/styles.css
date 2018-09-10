@@ -138,14 +138,15 @@ a {
   width: 23%;
 }
 
-/*.profil-block .avatar img{
-	border-radius: 100%;
-	border:5px solid #0ceea2;
-	height:120px;
-	margin:20% 0 10px 0;
-	max-width:120px;
+.profil-block .avatar img {
+  border-radius: 100%;
+  border: 5px solid #0ceea2;
+  height: 120px;
+  margin: 20% 0 10px 0;
+  max-width: 120px;
 }
-.profil-block:hover .avatar img{
+
+/*.profil-block:hover .avatar img{
   transform:rotate(360deg);
   transition:all 5s linear;
 }
