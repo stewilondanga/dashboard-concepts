@@ -278,18 +278,19 @@ a {
   }
 }
 
-/*@keyframes movbackg {
-	0% {
-		background-size: 100% 200%
-	}
-	50% {
-		background-size: 100% 250%
-	}
-	100% {
-		background-size: 100% 200%
+@keyframes movbackg {
+  0% {
+    background-size: 100% 200%
+  }
+  50% {
+    background-size: 100% 250%
+  }
+  100% {
+    background-size: 100% 200%
   }
 }
-.beat-text{
+
+/*.beat-text{
   font-size:inherit;
   -webkit-animation:heartbeat 4s linear infinite;
 	-moz-animation: heartbeat 4s linear infinite;
