@@ -103,12 +103,13 @@ a {
   top: 0;
 }
 
-/*.navbar .icons-nav li{
-  padding:5px 0;
-  height:24px;
-  width:24px;
+.navbar .icons-nav li {
+  padding: 5px 0;
+  height: 24px;
+  width: 24px;
 }
-.navbar img{
+
+/*.navbar img{
   border-radius:100%;
   background:#480b2b;
 	max-height:24px;
