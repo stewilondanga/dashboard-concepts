@@ -186,11 +186,12 @@ a {
   vertical-align: top;
 }
 
-/*.settings p{
-	display:inline-block;
-	font-weight:400;
-	bottom:0px;
+.settings p {
+  display: inline-block;
+  font-weight: 400;
+  bottom: 0px;
 }
+
 /* ALL BLOCKS TITLES */
 
 /*.block-title{
