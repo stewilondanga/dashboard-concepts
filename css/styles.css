@@ -117,9 +117,10 @@ a {
   padding: 10px;
 }
 
-/*.navbar img:hover{
-  background:#37c595;
+.navbar img:hover {
+  background: #37c595;
 }
+
 /* LEFT/TOP PROFIL BLOCK*/
 
 /*.profil-block{
