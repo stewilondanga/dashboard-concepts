@@ -266,18 +266,19 @@ a {
   }
 }
 
-/*@-moz-keyframes movbackg {
-	0% {
-		background-size: 100% 200%
-	}
-	50% {
-		background-size: 100% 250%
-	}
-	100% {
-		background-size: 100% 200%
+@-moz-keyframes movbackg {
+  0% {
+    background-size: 100% 200%
+  }
+  50% {
+    background-size: 100% 250%
+  }
+  100% {
+    background-size: 100% 200%
   }
 }
-@keyframes movbackg {
+
+/*@keyframes movbackg {
 	0% {
 		background-size: 100% 200%
 	}
