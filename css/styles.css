@@ -232,18 +232,19 @@ a {
 
 /* 2 */
 
-/*.heart-rate{
-  background: rgb(55,197,149);
-  background: -moz-radial-gradient(circle, rgba(55,197,149,1) 0%, rgba(203,166,185,1) 100%);
-  background: -webkit-radial-gradient(circle, rgba(55,197,149,1) 0%, rgba(203,166,185,1) 100%);
-  background: radial-gradient(circle, rgba(55,197,149,1) 0%, rgba(115, 18, 69,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#37c595",endColorstr="#cba6b9",GradientType=1);
+.heart-rate {
+  background: rgb(55, 197, 149);
+  background: -moz-radial-gradient(circle, rgba(55, 197, 149, 1) 0%, rgba(203, 166, 185, 1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(55, 197, 149, 1) 0%, rgba(203, 166, 185, 1) 100%);
+  background: radial-gradient(circle, rgba(55, 197, 149, 1) 0%, rgba(115, 18, 69, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#37c595", endColorstr="#cba6b9", GradientType=1);
   background-size: 100% 250%;
   -webkit-animation: movbackg 4s ease infinite;
-	-moz-animation: movbackg 4s ease infinite;
+  -moz-animation: movbackg 4s ease infinite;
   animation: movbackg 4s ease infinite;
 }
-.heart-rate:hover{
+
+/*.heart-rate:hover{
   animation: none;
   outline:1px solid #0ceea2;
 }
