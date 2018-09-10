@@ -39,12 +39,13 @@ a {
   color: #FFF;
 }
 
-/*.round-green{
-	border-radius:5px;
-	background:#0ceea2;
-	color:#1E1E1E;
+.round-green {
+  border-radius: 5px;
+  background: #0ceea2;
+  color: #1E1E1E;
 }
-.top-blocks .round-green,
+
+/*.top-blocks .round-green,
 .bottom-block .round-green{
 	font-size: 14px;
 	border-radius:5px;
