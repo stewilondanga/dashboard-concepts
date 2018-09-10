@@ -59,7 +59,7 @@ a {
 
 .dashboard {
   margin: 2%;
-  padding: 3%;
+  padding: 7%;
   position: relative;
   height: 96%;
   width: 96%;
@@ -123,21 +123,22 @@ a {
 
 /* LEFT/TOP PROFIL BLOCK*/
 
-/*.profil-block{
-	  background: rgb(115,18,69);
-    background: -moz-linear-gradient(180deg, rgba(115,18,69,1) 0%, rgba(42,2,29,1) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(115,18,69,1) 0%, rgba(42,2,29,1) 100%);
-    background: linear-gradient(180deg, rgba(115,18,69,1) 0%, rgba(42,2,29,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731245",endColorstr="#2a021d",GradientType=1);
-	border-top-left-radius:10px;
-	border-bottom-left-radius:10px;
-	height:700px;
-	position:absolute;
-	text-align: center;
-	top:0;
-	width:23%;
+.profil-block {
+  background: rgb(115, 18, 69);
+  background: -moz-linear-gradient(180deg, rgba(115, 18, 69, 1) 0%, rgba(42, 2, 29, 1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(115, 18, 69, 1) 0%, rgba(42, 2, 29, 1) 100%);
+  background: linear-gradient(180deg, rgba(115, 18, 69, 1) 0%, rgba(42, 2, 29, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731245", endColorstr="#2a021d", GradientType=1);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  height: 700px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 23%;
 }
-.profil-block .avatar img{
+
+/*.profil-block .avatar img{
 	border-radius: 100%;
 	border:5px solid #0ceea2;
 	height:120px;
