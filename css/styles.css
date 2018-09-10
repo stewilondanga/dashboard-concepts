@@ -370,21 +370,22 @@ a {
 
 /* BOTTOM BLOCK */
 
-/*.bottom-block{
-	background-image:url(http://www.semicorpus.com/img/wave.jpg);
-	background-position: center;
-	background-size:cover;
-	cursor:pointer;
-	display:inline-table;
-	height:300px;
-	left:26%;
-	margin:100px 0 0 0;
-  opacity:.8;
-  position:relative;
-	text-align:center;
-	width:73.6%;
+.bottom-block {
+  background-image: url(http://www.semicorpus.com/img/wave.jpg);
+  background-position: center;
+  background-size: cover;
+  cursor: pointer;
+  display: inline-table;
+  height: 300px;
+  left: 26%;
+  margin: 100px 0 0 0;
+  opacity: .8;
+  position: relative;
+  text-align: center;
+  width: 73.6%;
 }
-.bottom-block:hover{
+
+/*.bottom-block:hover{
   opacity:1;
 }
 .bottom-block h1{
