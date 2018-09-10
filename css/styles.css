@@ -79,12 +79,13 @@ a {
   width: 71%;
 }
 
-/*.navbar li{
-	display:inline;
-	list-style:none;
-	padding:5px 15px;
+.navbar li {
+  display: inline;
+  list-style: none;
+  padding: 5px 15px;
 }
-.navbar .main-links li{
+
+/*.navbar .main-links li{
   border-radius:5px;
   box-shadow:0 0 40px rgb(43,7,26,5);
 }
