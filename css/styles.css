@@ -217,14 +217,15 @@ a {
 
 /* 1 */
 
-/*.rad-bg{
-	  background: rgb(115,18,69);
-    background: -moz-radial-gradient(circle, rgba(115,18,69,1) 0%, rgba(42,2,29,1) 100%);
-    background: -webkit-radial-gradient(circle, rgba(115,18,69,1) 0%, rgba(42,2,29,1) 100%);
-    background: radial-gradient(circle, rgba(115,18,69,1) 0%, rgba(42,2,29,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731245",endColorstr="#2a021d",GradientType=1);
+.rad-bg {
+  background: rgb(115, 18, 69);
+  background: -moz-radial-gradient(circle, rgba(115, 18, 69, 1) 0%, rgba(42, 2, 29, 1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(115, 18, 69, 1) 0%, rgba(42, 2, 29, 1) 100%);
+  background: radial-gradient(circle, rgba(115, 18, 69, 1) 0%, rgba(42, 2, 29, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731245", endColorstr="#2a021d", GradientType=1);
 }
-.zoom:hover{
+
+/*.zoom:hover{
   transform:scale(1.02);
   transition:all .2s linear;
 }
