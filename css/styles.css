@@ -225,10 +225,11 @@ a {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731245", endColorstr="#2a021d", GradientType=1);
 }
 
-/*.zoom:hover{
-  transform:scale(1.02);
-  transition:all .2s linear;
+.zoom:hover {
+  transform: scale(1.02);
+  transition: all .2s linear;
 }
+
 /* 2 */
 
 /*.heart-rate{
