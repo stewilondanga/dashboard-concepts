@@ -244,11 +244,12 @@ a {
   animation: movbackg 4s ease infinite;
 }
 
-/*.heart-rate:hover{
+.heart-rate:hover {
   animation: none;
-  outline:1px solid #0ceea2;
+  outline: 1px solid #0ceea2;
 }
-.heart-rate:hover .beat-text{
+
+/*.heart-rate:hover .beat-text{
   animation:none;
   transition:all 1s ease-out;
 }
