@@ -146,11 +146,12 @@ a {
   max-width: 120px;
 }
 
-/*.profil-block:hover .avatar img{
-  transform:rotate(360deg);
-  transition:all 5s linear;
+.profil-block:hover .avatar img {
+  transform: rotate(360deg);
+  transition: all 5s linear;
 }
-.profil-block span{
+
+/*.profil-block span{
 	border-radius:15px;
 	font-weight:800;
 	margin:40px 0;
