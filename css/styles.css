@@ -297,24 +297,25 @@ a {
   animation: heartbeat 1.9s linear infinite;
 }
 
-/*@-webkit-keyframes heartbeat {
-	0% {
-		font-size:28px;
-	}
-	25% {
-		font-size:30px;
-	}
-  50%{
-    font-size:28px;
+@-webkit-keyframes heartbeat {
+  0% {
+    font-size: 28px;
   }
-  75%{
-    font-size:28px;
+  25% {
+    font-size: 30px;
   }
-	100% {
-		font-size:28px;
-	}
+  50% {
+    font-size: 28px;
+  }
+  75% {
+    font-size: 28px;
+  }
+  100% {
+    font-size: 28px;
+  }
 }
-@-moz-keyframes heartbeat {
+
+/*@-moz-keyframes heartbeat {
 	0% {
 		font-size:28px;
 	}
