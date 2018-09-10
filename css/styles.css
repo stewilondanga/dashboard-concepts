@@ -85,11 +85,12 @@ a {
   padding: 5px 15px;
 }
 
-/*.navbar .main-links li{
-  border-radius:5px;
-  box-shadow:0 0 40px rgb(43,7,26,5);
+.navbar .main-links li {
+  border-radius: 5px;
+  box-shadow: 0 0 40px rgb(43, 7, 26, 5);
 }
-.navbar .main-links li:hover{
+
+/*.navbar .main-links li:hover{
 	background:#0ceea2;
 	color:#1E1E1E;
 }
