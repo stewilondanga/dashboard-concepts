@@ -353,16 +353,17 @@ a {
 
 /* 3 */
 
-/*.push{
-    background: rgb(27,99,75);
-    background: -moz-linear-gradient(45deg, rgba(27,99,75,1) 0%, rgba(55,197,149,1) 100%);
-    background: -webkit-linear-gradient(45deg, rgba(27,99,75,1) 0%, rgba(55,197,149,1) 100%);
-    background: linear-gradient(45deg, rgba(27,99,75,1) 0%, rgba(55,197,149,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1b634b",endColorstr="#37c595",GradientType=1);
-	  color:#FFF;
-    transition:all .4s linear;
+.push {
+  background: rgb(27, 99, 75);
+  background: -moz-linear-gradient(45deg, rgba(27, 99, 75, 1) 0%, rgba(55, 197, 149, 1) 100%);
+  background: -webkit-linear-gradient(45deg, rgba(27, 99, 75, 1) 0%, rgba(55, 197, 149, 1) 100%);
+  background: linear-gradient(45deg, rgba(27, 99, 75, 1) 0%, rgba(55, 197, 149, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1b634b", endColorstr="#37c595", GradientType=1);
+  color: #FFF;
+  transition: all .4s linear;
 }
-.push:hover{
+
+/*.push:hover{
   border-radius:80% 80% 80% 0%;
   transition:all 1s linear;
 }
