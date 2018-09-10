@@ -202,18 +202,19 @@ a {
 
 /* 3 TOP BLOCKS */
 
-/*.top-blocks{
-	cursor:pointer;
-	display:inline-table;
-	height:300px;
-	left:25%;
-	margin:0 1%;
-	position:relative;
-	text-align:center;
-	top:10%;
-	vertical-align: top;
-	width:23%;
+.top-blocks {
+  cursor: pointer;
+  display: inline-table;
+  height: 300px;
+  left: 25%;
+  margin: 0 1%;
+  position: relative;
+  text-align: center;
+  top: 10%;
+  vertical-align: top;
+  width: 23%;
 }
+
 /* 1 */
 
 /*.rad-bg{
