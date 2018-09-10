@@ -33,12 +33,13 @@ html, body {
 
 /* TYPO */
 
-/*a{
-	cursor: pointer;
-	text-decoration:none;
-	color:#FFF;
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #FFF;
 }
-.round-green{
+
+/*.round-green{
 	border-radius:5px;
 	background:#0ceea2;
 	color:#1E1E1E;
