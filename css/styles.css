@@ -95,14 +95,15 @@ a {
   color: #1E1E1E;
 }
 
-/*.navbar .icons-nav{
-	float:right;
-	position:absolute;
-	right:0;
-	margin-top:-13px;
-	top:0;
+.navbar .icons-nav {
+  float: right;
+  position: absolute;
+  right: 0;
+  margin-top: -13px;
+  top: 0;
 }
-.navbar .icons-nav li{
+
+/*.navbar .icons-nav li{
   padding:5px 0;
   height:24px;
   width:24px;
