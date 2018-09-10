@@ -57,13 +57,14 @@ a {
 
 /* CONTAINER */
 
-/*.dashboard{
-	margin:2%;
-	padding:0%;
-	position:relative;
-	height:96%;
-	width:96%;
+.dashboard {
+  margin: 2%;
+  padding: 0%;
+  position: relative;
+  height: 96%;
+  width: 96%;
 }
+
 /* NAVBAR */
 
 /*.navbar{
