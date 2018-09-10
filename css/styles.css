@@ -290,13 +290,14 @@ a {
   }
 }
 
-/*.beat-text{
-  font-size:inherit;
-  -webkit-animation:heartbeat 4s linear infinite;
-	-moz-animation: heartbeat 4s linear infinite;
-  animation:heartbeat 1.9s linear infinite;
+.beat-text {
+  font-size: inherit;
+  -webkit-animation: heartbeat 4s linear infinite;
+  -moz-animation: heartbeat 4s linear infinite;
+  animation: heartbeat 1.9s linear infinite;
 }
-@-webkit-keyframes heartbeat {
+
+/*@-webkit-keyframes heartbeat {
 	0% {
 		font-size:28px;
 	}
