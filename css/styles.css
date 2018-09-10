@@ -45,16 +45,16 @@ a {
   color: #1E1E1E;
 }
 
-/*.top-blocks .round-green,
-.bottom-block .round-green{
-	font-size: 14px;
-	border-radius:5px;
-	font-weight:800;
-	margin:0px 0;
-	padding:0 10px;
-	text-transform: uppercase;
-	letter-spacing: 2px;
+.top-blocks .round-green, .bottom-block .round-green {
+  font-size: 14px;
+  border-radius: 5px;
+  font-weight: 800;
+  margin: 0px 0;
+  padding: 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
+
 /* CONTAINER */
 
 /*.dashboard{
