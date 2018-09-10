@@ -169,18 +169,19 @@ a {
   color: #898989;
 }
 
-/*.settings{
-	bottom:30px;
-	display:inline-block;
-	left:0;
-	position:absolute;
-	right:0;
-	text-align: center;
-	text-transform: uppercase;
-	vertical-align:middle;
-	padding:0;
+.settings {
+  bottom: 30px;
+  display: inline-block;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: middle;
+  padding: 0;
 }
-.settings img{
+
+/*.settings img{
 	display:inline-block;
 	vertical-align:top;
 }
