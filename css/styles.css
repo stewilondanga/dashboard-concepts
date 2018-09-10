@@ -163,12 +163,13 @@ a {
   padding-top: 30px;
 }
 
-/*.aka{
-	font-size:13px;
-	font-weight:400;
-	color:#898989;
+.aka {
+  font-size: 13px;
+  font-weight: 400;
+  color: #898989;
 }
-.settings{
+
+/*.settings{
 	bottom:30px;
 	display:inline-block;
 	left:0;
