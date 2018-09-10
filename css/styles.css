@@ -67,18 +67,19 @@ a {
 
 /* NAVBAR */
 
-/*.navbar{
-	font-size:12px;
-	font-weight:800;
-	letter-spacing:4px;
-	margin-top:1%;
-	margin-left:25%;
-	position:absolute;
-	text-transform:uppercase;
-	word-spacing: 30px;
-	width:71%;
+.navbar {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 4px;
+  margin-top: 1%;
+  margin-left: 25%;
+  position: absolute;
+  text-transform: uppercase;
+  word-spacing: 30px;
+  width: 71%;
 }
-.navbar li{
+
+/*.navbar li{
 	display:inline;
 	list-style:none;
 	padding:5px 15px;
