@@ -90,11 +90,12 @@ a {
   box-shadow: 0 0 40px rgb(43, 7, 26, 5);
 }
 
-/*.navbar .main-links li:hover{
-	background:#0ceea2;
-	color:#1E1E1E;
+.navbar .main-links li:hover {
+  background: #0ceea2;
+  color: #1E1E1E;
 }
-.navbar .icons-nav{
+
+/*.navbar .icons-nav{
 	float:right;
 	position:absolute;
 	right:0;
