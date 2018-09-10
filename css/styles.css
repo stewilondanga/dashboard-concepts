@@ -151,13 +151,14 @@ a {
   transition: all 5s linear;
 }
 
-/*.profil-block span{
-	border-radius:15px;
-	font-weight:800;
-	margin:40px 0;
-	padding:0 10px;
+.profil-block span {
+  border-radius: 15px;
+  font-weight: 800;
+  margin: 40px 0;
+  padding: 0 10px;
 }
-.name{
+
+/*.name{
 	font-weight:400;
 	padding-top:30px;
 }
